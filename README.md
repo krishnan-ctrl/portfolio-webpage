@@ -114,7 +114,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Created by Krishnan K** - Feel free to connect with me on [LinkedIn](https://linkedin.com/in/krishnank)!
+**Created by Krishnan K** 
 ```
 
 This README includes:
